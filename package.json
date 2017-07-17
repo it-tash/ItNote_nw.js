@@ -1,0 +1,21 @@
+{
+"main": "index.html",
+"name": "reader",
+"description": "fs",
+"version": "0.0.1",
+"keywords": [ "demo", "nwjs" ],
+"window": {
+"title": "read",
+"icon": "myicon.png",
+"frame": true,
+"width": 800,
+"height": 700,
+"position": "center"
+},
+"author": "it",
+"license": "MIT",
+"dependencies": {
+"moment": "latest",
+"handlebars": "^2.0.0"
+}
+}

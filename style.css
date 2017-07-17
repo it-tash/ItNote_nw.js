@@ -1,0 +1,19 @@
+*{
+    margin:0;
+}
+
+h1{
+    font-size: 72px;
+    color: blue;
+    margin: 100px 0 0 250px;
+}
+
+#text{
+    background-color: #222;
+    color: white;
+    font-size: 18px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+
